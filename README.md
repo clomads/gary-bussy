@@ -9,11 +9,29 @@ The following drawio SVG will update as I make changes and is fully editable wit
 
 ![](gary-bussy-electrical.drawio.svg)
 
+## Networking
+
+`Coming Soon`
 
 
+## Plumbning
 
+`Coming Soon`
 
+## Other Projects
 
+This is just a list of what may or may not need documentation.
+
+- Bed
+- Desk
+- Kitchen
+- Shelving
+- Fridge stand/mount thing
+- Solar Mounting
+- Paint & Body Rehab
+- Lift Door Coversion to Ramp
+- 4l80e Transmission Rebuild
+- 6.5L Detroit Diesel Repairs & Upgrades
 
 
 ## Notable Changes
@@ -25,3 +43,9 @@ The following drawio SVG will update as I make changes and is fully editable wit
     - saves are direct comits to master - might want to change? At least I'll have history, not super important for this repo, but may be an issue for others.
 - Upgrading solar while making this 
     - remove 2x 100w panels add 2x 400w panels
+
+
+## Affiliate Disclosure
+
+Affiliate links may be provided for products used in this build. These links tell the marketplace that I sent you and they will give me a small percentage if you buy something. Your price doesn't change.
+
