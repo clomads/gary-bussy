@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T06:59:23.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="ZbJHcLRRStgBokfZdGAs" type="github"><diagram id="-w7RJMjUSxOeqmsZ2SkU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-02T07:50:46.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="wHAbG17TQfInMW-kJN1K" type="github">
+  <diagram id="UE8rDsr5XHwwFPf_98A7" name="Page-1">
+    <mxGraphModel dx="1385" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-1" value="Alternator" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="730" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="660" y="380" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-4" value="Injection Pump" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="Ujbb4PfxOMzPJcWmRXjg-7">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-5" value="On" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="Ujbb4PfxOMzPJcWmRXjg-7">
+          <mxGeometry y="45" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-6" value="Hi Idle" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="Ujbb4PfxOMzPJcWmRXjg-7">
+          <mxGeometry x="60" y="45" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-8" value="Temp Sens" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="690" y="275" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-9" value="Oil Pres" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-11" value="Headlight" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="115" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-12" value="Headlight" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="547.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-13" value="Turn Sig/DRL" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="572.5" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-14" value="Turn Sig" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="640" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-15" value="Turn Sig" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="30" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-16" value="Turn Sig/DRL" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="140" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-18" value="Glow Plug x 4" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="510" y="250" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="370" width="171.29" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-20" value="Water in Fuel Sens" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="Ujbb4PfxOMzPJcWmRXjg-21">
+          <mxGeometry width="113.54838709677419" height="68.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-19" value="Fuel Heater" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="Ujbb4PfxOMzPJcWmRXjg-21">
+          <mxGeometry x="5.161290322580645" y="81.25" width="103.2258064516129" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-24" value="" style="group" vertex="1" connectable="0" parent="Ujbb4PfxOMzPJcWmRXjg-21">
+          <mxGeometry x="-30.00032258064516" y="-56.25" width="201.29032258064515" height="181.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=15;dashed=1;strokeWidth=3;fillColor=none;strokeColor=#8A8A8A;" vertex="1" parent="Ujbb4PfxOMzPJcWmRXjg-24">
+          <mxGeometry x="5.161290322580645" y="43.75" width="196.1290322580645" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-23" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FUEL FILTER HOUSING&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=League Spartan;" vertex="1" parent="Ujbb4PfxOMzPJcWmRXjg-24">
+          <mxGeometry x="5.159999999999997" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-28" value="Glow Plug x 4" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="280" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-29" value="Glow Plug&lt;br&gt;Relay" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="162.5" width="100" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1010" y="70" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-17" value="One under body&#xa;One in engine bay&#xa;At replacement time&#xa;Upgrade to LiFePo4" style="shape=callout;whiteSpace=wrap;perimeter=calloutPerimeter;shadow=0;labelBackgroundColor=none;sketch=0;fillStyle=auto;strokeColor=#ae4132;strokeWidth=6;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=15;fillColor=#fad9d5;direction=west;spacingBottom=0;spacing=8;" vertex="1" parent="Ujbb4PfxOMzPJcWmRXjg-33">
+          <mxGeometry y="60" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-10" value="" style="group" vertex="1" connectable="0" parent="Ujbb4PfxOMzPJcWmRXjg-33">
+          <mxGeometry x="15" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-2" value="Battery" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="Ujbb4PfxOMzPJcWmRXjg-10">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ujbb4PfxOMzPJcWmRXjg-3" value="Battery" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=League Spartan;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLeague%2BSpartan;fontSize=18;" vertex="1" parent="Ujbb4PfxOMzPJcWmRXjg-10">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
