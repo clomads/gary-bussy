@@ -36,6 +36,9 @@ This is just a list of what may or may not need documentation.
 
 ## Notable Changes
 
+### 20221202
+- Added drivetrain electrical
+    - ISSUE #1: House Electrical is Scaled too large - match to drivetrain electrical
 
 ### 20221122 
 - Create repo with beginnings of electrical diagram
