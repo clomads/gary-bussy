@@ -1,3 +1,7 @@
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dclomads%26type%3Dpatrons&style=flat-square)](https://patreon.com/clomads)
+![GitHub](https://img.shields.io/github/license/clomads/Gary-Bussy?style=flat-square)
+
+
 # Gary Bussy
 Gary Bussy is the name of a 'skoolie' build whose chassis is based on a 1995 Chevy G30 with a 6.5L Detroit Diesel (NA). This repository is a place to keep documentation on various parts of the build process.
 
