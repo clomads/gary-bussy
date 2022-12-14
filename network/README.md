@@ -98,16 +98,30 @@ Current modems are mPCIE configuration and can be swapped into any of the above 
 - Chromecast w/ GoogleTV 4k
 
 ### Zigbee
+`batteries`
 - Aquara
-  - Motion Sensor
-  - Vibration Sensor
-  - Door/Window Sensor
+  - Motion Sensor - `CR2450`
+  - Vibration Sensor - `CR2032`
+  - Door/Window Sensor - `CR1632`
+  - Leak Sensor - `CR2032`
   - 2x Smart Plug w/ Energy Monitoring
+    - these things fucking suck or something changed and I need to reinstall them
 - Tuya or clone
-  - Smoke Alarm `Disconnected Temporarily`
-  - 2x2 Wall Remote
+  - 2x2 Wall Remote - `CR2430`
+    - https://s.click.aliexpress.com/e/_DcIgMt5
+
 - Unknown
-  - DIN Rail Energy Monitor / Switch `Not Yet Installed`
-    - For Shore/Generator - replaces 1x Aquara smart plug
+  
 
+**Currently Unused**
 
+- Tuya Smoke Alarm
+  - https://s.click.aliexpress.com/e/_DexyKPv
+  - I recently quit smoking so I can install this again
+- DIN Rail Energy Monitor / Switch
+  - https://s.click.aliexpress.com/e/_De89v8f
+  - For Shore/Generator - replaces 1x Aquara smart plug
+- Sylvania
+  - 12v MR16 Adjustable White - 2700 to 5600k
+    - For stream/studio lighting - working on custom mount/enclosure like a mini studio light.
+    

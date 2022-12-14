@@ -18,7 +18,7 @@ The following drawio SVG will update as I make changes and is fully editable wit
 `Coming Soon`
 
 
-## Plumbning
+## Plumbing
 
 `Coming Soon`
 
