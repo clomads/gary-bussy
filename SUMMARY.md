@@ -6,3 +6,7 @@
   * [Zigbee Devices](network/zigbee-devices.md)
   * [Speedify Test Notes](<network/20221227 - upgrades.md>)
 * [Plumbing](plumbing/README.md)
+
+## Concepts & Plans
+
+* [Hatch Cover Rebuild](concepts-and-plans/hatch-cover-rebuild.md)
