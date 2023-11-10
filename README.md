@@ -37,7 +37,7 @@ This is just a list of what may or may not need documentation.
 * Fridge stand/mount thing
 * Solar Mounting
 * Paint & Body Rehab
-* Lift Door Coversion to Ramp
+* Lift Door Conversion to Ramp
 * 4l80e Transmission Rebuild
 * 6.5L Detroit Diesel Repairs & Upgrades
 
