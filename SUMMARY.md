@@ -10,3 +10,8 @@
 ## Concepts & Plans
 
 * [Hatch Cover Rebuild](concepts-and-plans/hatch-cover-rebuild.md)
+
+***
+
+* [12/24v Fridge](12-24v-fridge/README.md)
+  * [Domende - ZH25G Compressor](12-24v-fridge/domende-zh25g-compressor.md)
