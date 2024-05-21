@@ -15,3 +15,4 @@
 
 * [12/24v Fridge](12-24v-fridge/README.md)
   * [Domende - ZH25G Compressor](12-24v-fridge/domende-zh25g-compressor.md)
+* [Chinese Diesel Heater](chinese-diesel-heater.md)
